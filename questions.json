@@ -1,0 +1,41 @@
+[
+    {
+        "question": "מי היה המנהל המוזיקלי של הביטלס?",
+        "options": ["בריאן אפשטיין", "ג'ורג' מרטין", "בילי פרסטון", "פיט בסט"],
+        "answer": "ג'ורג' מרטין"
+    },
+    {
+        "question": "מה היה שמו המלא של רינגו סטאר?",
+        "options": ["ריצ'רד סטארקי", "רוברט רינגו", "ג'ון סטאר", "רינגו סמית'"],
+        "answer": "ריצ'רד סטארקי"
+    },
+    {
+        "question": "באיזו שנה יצא האלבום 'רבר סול'?",
+        "options": ["1965", "1967", "1969", "1970"],
+        "answer": "1965"
+    },
+    {
+        "question": "מה היה השיר הראשון שהביטלס הקליטו באמריקה?",
+        "options": ["I Want to Hold Your Hand", "Twist and Shout", "Hey Jude", "Come Together"],
+        "answer": "I Want to Hold Your Hand"
+    },
+    {
+        "question": "איזה אלבום הוא האלבום האחרון שהביטלס הקליטו יחד כלהקה?",
+        "options": ["Let It Be", "Abbey Road", "The Beatles (The White Album)", "Yellow Submarine"],
+        "answer": "Abbey Road"
+    },
+    {
+        "question": "מי כתב את השיר 'Yesterday' של הביטלס?",
+        "options": ["ג'ון לנון ופול מקרטני", "פול מקרטני", "ג'ורג' הריסון", "רינגו סטאר"],
+        "answer": "פול מקרטני"
+    },
+    {
+        "question": "איזה שיר של הביטלס נכנס למקום הראשון במצעדים בארה\"ב בפברואר 1964?",
+        "options": ["I Want to Hold Your Hand", "She Loves You", "Please Please Me", "Love Me Do"],
+        "answer": "I Want to Hold Your Hand"
+    },
+    {
+        "question": "איזה סרט של הביטלס הוא הסרט הראשון שהם כיכבו בו?",
+        "options": ["Help!", "A Hard Day's Night", "Yellow Submarine", "Magical Mystery Tour"],
+        "answer": "A Hard Day's Night"
+    }]

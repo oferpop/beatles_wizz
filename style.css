@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arial', sans-serif;
+    direction: rtl; /* קביעת כיווניות מימין לשמאל */
+}
+
+.quiz-container {
+    width: 50%;
+    margin: auto;
+    text-align: right;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+}
